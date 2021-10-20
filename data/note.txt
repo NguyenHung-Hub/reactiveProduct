@@ -1,0 +1,9 @@
+
+CLO1 : Java + MongoDB (Reactive Stream)
+--> Connect --> 
+2/4 (CRUD) --> pass
+
+C: Create --> insertOne / insertMany
+U: Update --> updateOne / updateMany / 
+D: Delete -> 
+R: Read -> find, aggregate
